@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/gnpham/wood-system/issues"
   },
-  "homepage": "https://github.com/gnpham/wood-system#readme"
+  "homepage": "https://github.com/gnpham/wood-system#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "fs": "0.0.1-security"
+  }
 }

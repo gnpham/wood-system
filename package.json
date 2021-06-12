@@ -1,0 +1,19 @@
+{
+  "name": "wood-system",
+  "version": "1.0.0",
+  "description": "wood system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnpham/wood-system.git"
+  },
+  "author": "NguyenPham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnpham/wood-system/issues"
+  },
+  "homepage": "https://github.com/gnpham/wood-system#readme"
+}
